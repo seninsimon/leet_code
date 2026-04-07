@@ -15,6 +15,6 @@ var containsDuplicate = function(nums) {
         seen.add(num)
     }
 
-    return
+    return false
     
 };
