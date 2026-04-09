@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/seninsimon/leet_code/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/seninsimon/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/seninsimon/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/seninsimon/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/seninsimon/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/seninsimon/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/seninsimon/leet_code/tree/main/0242-valid-anagram/) | Easy |
 ## String
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/seninsimon/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/seninsimon/leet_code/tree/main/0125-valid-palindrome/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
