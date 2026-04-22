@@ -4,17 +4,14 @@
  */
 var plusOne = function (digits) {
 
-    let value = BigInt(digits.join("")) + 1n
-
-    const num = value.toString().split("")
-
-    let array = []
-    for (let x in num) {
-        array.push(Number(num[x]))
+    for (let i = digits.length; i >= 0; i--) {
+        if (digits[i] < 9) {
+            digits[i]++
+            return digits
+        }
+        digits[i] = 0
     }
+    digits.unshift(1)
+    return digits
 
-    console.log(array)
-
-    return array
-
-}
+};
