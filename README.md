@@ -61,4 +61,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/seninsimon/leet_code/tree/main/0066-plus-one/) | Easy |
+| [0258-add-digits](https://github.com/seninsimon/leet_code/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/seninsimon/leet_code/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/seninsimon/leet_code/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
