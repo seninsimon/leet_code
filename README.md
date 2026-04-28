@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/seninsimon/leet_code/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/seninsimon/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/seninsimon/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/seninsimon/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/seninsimon/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/seninsimon/leet_code/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/seninsimon/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/seninsimon/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/seninsimon/leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/seninsimon/leet_code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/seninsimon/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/seninsimon/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/seninsimon/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/seninsimon/leet_code/tree/main/0242-valid-anagram/) | Easy |
 ## String
@@ -56,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/seninsimon/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/seninsimon/leet_code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -70,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/seninsimon/leet_code/tree/main/0258-add-digits/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/seninsimon/leet_code/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
