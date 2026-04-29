@@ -12,37 +12,20 @@ var topKFrequent = function (nums, k) {
     }
 
 
+    let array = Object.entries(map).sort((a, b) => b[1] - a[1])
 
-    let array = []
-
-    for (let key in map) {
-        array.push(map[key])
-    }
-
-    let sorted = array.sort((a, b) => b - a)
-
+    console.log(array)
 
     let result = []
 
-    console.log(map)
-    console.log(sorted)
-
-
-    for (let key in map) {
-        for (let x of sorted) {
-            if (map[key] === x) {
-                result.push(Number(key))
-                result = [...new Set(result)]
-                if (result.length == k) {
-                    console.log(result)
-                    return result
-                }
-            }
-        }
+    for (let i = 0; i < k; i++) {
+        result.push(Number(array[i][0]))
     }
 
-    console.log(result)
+    return result
+
+
+}
 
 
 
-};
